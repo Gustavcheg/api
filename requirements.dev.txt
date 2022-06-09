@@ -1,0 +1,8 @@
+coverage
+Faker
+locust
+pylama
+pytest
+pytest-aiohttp
+pytest-cov
+SQLAlchemy-Utils

@@ -1,0 +1,10 @@
+aiohttp
+aiohttp-apispec
+aiomisc
+alembic
+asyncpgsa
+ConfigArgParse
+psycopg2-binary
+pytz
+setproctitle
+SQLAlchemy
